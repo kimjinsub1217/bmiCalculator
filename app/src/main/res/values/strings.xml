@@ -1,0 +1,9 @@
+<resources>
+        <string name = "app_name">
+        <html><font color="#ff0077">BMI</font></html>
+        <html><font color="#860D9A">계산기</font></html>
+    </string>
+    <string name="height">키</string>
+    <string name="weight">몸무게</string>
+
+</resources>
